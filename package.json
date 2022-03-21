@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.26.1",
+    "gh-pages": "^3.2.3",
     "miragejs": "^0.1.43",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -17,7 +18,10 @@
     "@testing-library/user-event": "^13.2.1",
     "cypress": "^9.5.2"
   },
+  "homepage": "https://raffilsk.github.io/financa_react/",
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -9,7 +9,7 @@ export function Resume() {
    const {operations} = useOperations();
 
    const resume = operations.reduce((acumulator, operation) =>{
-      if(operation.type == 'entrada'){
+      if(operation.type === 'entrada'){
          acumulator.entradas += operation.amount;
          acumulator.total += operation.amount;
       }else{

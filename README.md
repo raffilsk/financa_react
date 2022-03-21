@@ -5,8 +5,13 @@ Projeto Criado com Create React App.
 ## Nesta Aplicação utilizei
 
 -ReactJs
+
+-CSS (puro)
+
 -Axios
+
 -Mirage
+
 -Cypress
 
 

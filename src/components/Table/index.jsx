@@ -7,7 +7,7 @@ export function Table() {
    const {operations} = useOperations()
 
    function imgEntradaSaida(tipo){
-      if(tipo=='entrada'){
+      if(tipo === 'entrada'){
          return <img src={entradaImg}
                      className="resume--title--setas"
                      alt="Entrada"
