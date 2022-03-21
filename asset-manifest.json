@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/financa_react/static/css/main.ba85d7f8.css",
+    "main.js": "/financa_react/static/js/main.7aae021a.js",
+    "static/media/logo.png": "/financa_react/static/media/logo.9e65ae1bc254d3da094c.png",
+    "static/media/down.png": "/financa_react/static/media/down.72c07026eaf52b0e3fa2.png",
+    "static/media/up.png": "/financa_react/static/media/up.9679a52d0ec2cd4c28f5.png",
+    "index.html": "/financa_react/index.html",
+    "main.ba85d7f8.css.map": "/financa_react/static/css/main.ba85d7f8.css.map",
+    "main.7aae021a.js.map": "/financa_react/static/js/main.7aae021a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba85d7f8.css",
+    "static/js/main.7aae021a.js"
+  ]
+}
